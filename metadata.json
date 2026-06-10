@@ -1,0 +1,6 @@
+{
+  "name": "All Video Converter",
+  "description": "Aplikasi konversi video Android dengan fitur kompresi lossless, dukungan format 4K, pemrosesan batch, dan tab navigasi terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
